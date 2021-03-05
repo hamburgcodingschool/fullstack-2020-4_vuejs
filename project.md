@@ -195,4 +195,4 @@ You can choose any of these optional bonus tasks, in any order.
   - A link to your GitHub repository for the BackEnd app if implemented  
   - If you worked in a team, both your names
   - If you did any bonus tasks, list them
-  - Send it to Helder (helder@hamburgcodingschool.com) and Teresa (teresa@hamburgcodingschool.com)
+  - Send it to Thomas (thomas@hamburgcodingschool.com), Helder (helder@hamburgcodingschool.com) and Teresa (teresa@hamburgcodingschool.com)
